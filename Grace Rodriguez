@@ -1,0 +1,3 @@
+git config --global user.name "Grace Rodriguez"
+git config --global user.email gabatagrace2@gmail.com
+git config --global pull.rebase true
